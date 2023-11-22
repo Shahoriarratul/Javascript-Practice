@@ -1,7 +1,9 @@
 {
   "dependencies": {
     "core-js": "^3.33.3",
-    "lodash-es": "^4.17.21"
+    "live-server": "^1.2.2",
+    "lodash-es": "^4.17.21",
+    "regenerator-runtime": "^0.14.0"
   },
   "devDependencies": {
     "parcel": "^2.10.3"

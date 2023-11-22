@@ -35,7 +35,7 @@
 
 // shoppingCArt2.addTOCart('apple', 4);
 
-import cloneDeep from 'lodash-es';
+import cloneDeep from './lodash-es/';
 
 // const state = {
 //   carts: [{ producr }],
@@ -45,3 +45,4 @@ if (module.hot) {
   module.hot.accept();
 }
 import 'core-js/stable';
+import 'regenerator-runtime/runtime';
